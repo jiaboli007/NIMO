@@ -3,7 +3,7 @@
 
 This is the code for the "Nimo: a Nature Inspired Molecular Generative Model Based on Fragments of Natural Products" paper.
 
-The models was based on [OpenNMT-py 2.0](http://opennmt.net/OpenNMT-py/).
+The package is based on [OpenNMT-py 2.0](http://opennmt.net/OpenNMT-py/).
 
 ## Environment
 - python = 3.8
