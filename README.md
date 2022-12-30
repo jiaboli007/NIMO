@@ -23,7 +23,7 @@ The package is based on [OpenNMT-py 2.0](http://opennmt.net/OpenNMT-py/).
 * pip install pyonmttok
 * pip install tensorboard
 
-##On MacOS
+## On MacOS
 
 * pip install setuptools==59.5.0
 
