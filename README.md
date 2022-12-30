@@ -73,3 +73,4 @@ Model sampling use the `generation.py` script:
 ```bash
 python generation.py -model data/coconut_M/run/models/{your model} -src data/coconut_M/lm_input.txt -output data/coconut_M/lm_pred.txt -n_best 5 -beam_size 10
 ```
+
